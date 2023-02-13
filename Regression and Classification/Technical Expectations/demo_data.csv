@@ -1,0 +1,1001 @@
+Date_Time,Name,Age,Eye_Colour,Satisfaction,Sale
+09/25/22 23:30,Amii Powelee,54,Hazel,Extremely Satisfied,FALSE
+08/30/22 13:23,Henryetta Heynel,59,Green,Very Satisfied,FALSE
+06/23/22 9:18,Cindi Jantet,36,Gray,Very Satisfied,FALSE
+08/15/22 21:25,Vally Bricket,34,Gray,Extremely Satisfied,TRUE
+08/02/22 15:37,Carla Roggers,42,Gray,Very Satisfied,FALSE
+08/17/22 11:26,Alfy Bruckner,48,Hazel,Not Satisfied,FALSE
+08/25/22 19:57,Leta Smeath,58,Hazel,Extremely Satisfied,TRUE
+09/06/22 3:20,Karlik Berr,53,Amber,Very Satisfied,TRUE
+07/19/22 0:15,Adorne Nicolson,43,Gray,Satisfied,TRUE
+11/17/22 0:02,Elenore Scallan,51,Green,Slightly Satisfied,TRUE
+01/22/23 15:22,Jaime Tomson,53,Hazel,Extremely Satisfied,TRUE
+11/21/22 4:08,Lothaire Idwal Evans,49,Amber,Not Satisfied,TRUE
+11/22/22 12:02,Christabel Govinlock,54,Brown,Slightly Satisfied,FALSE
+04/02/22 6:42,Galina Balloch,26,Green,Slightly Satisfied,TRUE
+06/07/22 12:39,Kennith Danels,45,Hazel,Extremely Satisfied,TRUE
+12/11/22 8:51,Clarance Cumes,43,Blue,Satisfied,TRUE
+01/27/23 8:26,Selena Sikora,49,Amber,Satisfied,FALSE
+06/04/22 2:51,Aloysius Leven,63,Amber,Very Satisfied,FALSE
+02/12/22 21:59,Lolly Cafe,25,Brown,Extremely Satisfied,FALSE
+05/05/22 6:02,Addia Berling,44,Amber,Extremely Satisfied,FALSE
+09/22/22 4:32,Addi McGhie,55,Gray,Not Satisfied,FALSE
+09/17/22 21:23,Lauree Fowler,48,Brown,Slightly Satisfied,TRUE
+02/16/22 17:55,Elita Trolley,62,Green,Slightly Satisfied,TRUE
+08/25/22 12:20,Karia Saurin,27,Brown,Slightly Satisfied,FALSE
+10/22/22 9:50,Odetta Gilli,28,Amber,Slightly Satisfied,FALSE
+06/13/22 8:03,Waverly Ivanonko,52,Hazel,Extremely Satisfied,TRUE
+10/29/22 19:14,Sara-ann Kersey,38,Blue,Slightly Satisfied,FALSE
+11/16/22 12:38,Lotty Sheraton,36,Green,Not Satisfied,FALSE
+03/26/22 21:20,Melva Amthor,64,Amber,Extremely Satisfied,TRUE
+10/02/22 14:53,Bryant Bentzen,31,Gray,Extremely Satisfied,FALSE
+11/22/22 10:11,Aeriell Fisby,38,Gray,Slightly Satisfied,TRUE
+02/09/23 20:48,Faulkner Snelman,59,Hazel,Not Satisfied,FALSE
+08/28/22 3:15,Christie Lamba,65,Green,Satisfied,FALSE
+05/05/22 23:20,Kimmi Wiggin,28,Blue,Not Satisfied,TRUE
+12/14/22 23:26,Mabelle O'Shee,51,Hazel,Very Satisfied,FALSE
+12/20/22 1:47,Amanda Moncreif,46,Green,Extremely Satisfied,TRUE
+07/11/22 16:20,Brynne Yeandel,56,Red,Not Satisfied,TRUE
+02/19/22 19:25,Elissa Langrick,55,Red,Not Satisfied,TRUE
+06/21/22 13:44,Kakalina Proback,61,Hazel,Slightly Satisfied,TRUE
+06/08/22 11:29,Virgie Smout,56,Red,Very Satisfied,TRUE
+12/01/22 0:25,Rory Woolf,39,Red,Extremely Satisfied,FALSE
+08/10/22 8:42,Suzette Hughman,60,Brown,Slightly Satisfied,FALSE
+07/19/22 16:40,Courtenay Liley,61,Gray,Very Satisfied,FALSE
+10/11/22 12:10,Georas Duchenne,28,Gray,Satisfied,TRUE
+06/07/22 10:13,Patricia Colliar,39,Blue,Not Satisfied,FALSE
+03/02/22 12:37,Mufi Waiting,33,Hazel,Satisfied,FALSE
+07/11/22 12:23,Iolande Mulhill,35,Brown,Slightly Satisfied,TRUE
+09/08/22 15:36,Vannie Farnes,63,Hazel,Very Satisfied,FALSE
+02/17/22 13:06,Jorie Cootes,64,Hazel,Not Satisfied,FALSE
+01/25/23 20:30,Scarface Laible,31,Green,Satisfied,FALSE
+04/12/22 14:37,Erskine Wheatman,55,Blue,Slightly Satisfied,TRUE
+08/10/22 5:40,Davita Pettipher,49,Hazel,Not Satisfied,TRUE
+02/18/22 13:29,Hercules Gamlen,55,Red,Slightly Satisfied,FALSE
+05/10/22 23:58,Archambault Wintour,49,Brown,Not Satisfied,FALSE
+02/27/22 20:20,Alyss Wrought,35,Green,Extremely Satisfied,FALSE
+07/27/22 4:18,Jephthah Conichie,32,Red,Slightly Satisfied,FALSE
+06/17/22 17:57,Lammond Twitchings,38,Gray,Slightly Satisfied,TRUE
+05/03/22 22:54,Freeman Leader,31,Red,Satisfied,TRUE
+02/23/22 20:41,Xever Drillingcourt,53,Green,Slightly Satisfied,FALSE
+02/26/22 19:41,Berthe McWard,45,Blue,Extremely Satisfied,TRUE
+07/03/22 7:56,Jethro Richings,27,Hazel,Slightly Satisfied,TRUE
+03/13/22 8:13,Daniella McIlwrick,36,Brown,Not Satisfied,FALSE
+01/04/23 15:46,Stearne Burns,59,Brown,Extremely Satisfied,TRUE
+07/16/22 16:45,Rodrigo Nice,55,Amber,Satisfied,FALSE
+12/08/22 20:36,Malorie Gawen,62,Gray,Not Satisfied,TRUE
+09/19/22 4:53,Neddie Marval,60,Hazel,Satisfied,FALSE
+12/13/22 7:13,Berti Doole,52,Brown,Slightly Satisfied,TRUE
+05/16/22 10:57,Myrah Mandrake,31,Blue,Satisfied,FALSE
+10/14/22 13:49,Kamilah Jaquet,50,Red,Extremely Satisfied,TRUE
+06/14/22 1:03,Gerrie Hodgets,52,Blue,Satisfied,FALSE
+11/05/22 23:31,Arman Sadler,39,Red,Very Satisfied,TRUE
+07/23/22 2:19,Gris Berens,26,Brown,Very Satisfied,TRUE
+04/24/22 13:53,Garfield Rawlcliffe,49,Gray,Satisfied,FALSE
+01/13/23 23:51,Hedwiga Buckingham,55,Blue,Slightly Satisfied,FALSE
+07/23/22 3:23,Melisa Knight,52,Green,Very Satisfied,FALSE
+11/26/22 18:13,Vera Boylin,35,Amber,Not Satisfied,TRUE
+05/11/22 17:27,Cornelius McMorland,65,Brown,Extremely Satisfied,FALSE
+07/17/22 21:47,Brook Rottenbury,58,Amber,Satisfied,TRUE
+06/03/22 18:08,Doris Puddefoot,34,Blue,Extremely Satisfied,TRUE
+05/01/22 7:33,Hermina Pedrocchi,35,Hazel,Very Satisfied,FALSE
+01/16/23 9:42,Eli Caldayrou,37,Green,Slightly Satisfied,FALSE
+10/16/22 14:09,Gleda Fass,36,Amber,Satisfied,FALSE
+05/04/22 11:47,Ardisj Tapenden,62,Amber,Very Satisfied,TRUE
+04/04/22 20:45,Kacy Hubbis,29,Brown,Satisfied,TRUE
+06/09/22 12:56,Garrik Goreisr,43,Hazel,Not Satisfied,TRUE
+06/10/22 1:47,Kizzie Cloute,46,Gray,Not Satisfied,FALSE
+04/09/22 16:21,Jonis Baines,41,Hazel,Satisfied,FALSE
+01/02/23 23:09,Mady Hegdonne,25,Red,Very Satisfied,FALSE
+03/02/22 21:01,Shirl Dorbin,46,Brown,Extremely Satisfied,TRUE
+08/25/22 0:06,Dicky Heinrich,62,Hazel,Extremely Satisfied,FALSE
+01/07/23 3:06,Mia Spini,28,Brown,Satisfied,TRUE
+12/29/22 23:04,Martina Jakubski,52,Green,Satisfied,TRUE
+04/08/22 14:54,Bastian Caig,47,Blue,Not Satisfied,TRUE
+10/07/22 13:47,Raffaello Dun,30,Hazel,Very Satisfied,FALSE
+01/10/23 18:02,Felicia Finnigan,50,Gray,Not Satisfied,FALSE
+06/28/22 17:54,Bette Lowy,45,Brown,Not Satisfied,TRUE
+07/23/22 9:24,Loralyn Gynn,29,Hazel,Extremely Satisfied,TRUE
+10/09/22 22:33,Wayne Hardy,38,Red,Very Satisfied,TRUE
+01/25/23 3:41,Abie Maciejak,30,Brown,Satisfied,FALSE
+07/20/22 7:33,Ado Pipes,29,Hazel,Satisfied,TRUE
+08/04/22 10:00,Duffie Branton,49,Blue,Extremely Satisfied,TRUE
+09/27/22 15:12,Myra Tamblyn,57,Brown,Not Satisfied,FALSE
+07/02/22 7:35,Shea Toothill,28,Amber,Not Satisfied,TRUE
+07/10/22 15:55,Ludovico Eyles,62,Gray,Satisfied,TRUE
+12/24/22 6:23,Guido Takle,43,Brown,Very Satisfied,FALSE
+03/31/22 7:33,Glenden Scouse,55,Blue,Very Satisfied,TRUE
+02/07/23 9:06,Jarrett Sandle,25,Hazel,Not Satisfied,TRUE
+06/20/22 5:48,Marieann Diter,31,Amber,Very Satisfied,TRUE
+07/07/22 19:42,Base Hallawell,45,Brown,Very Satisfied,FALSE
+03/18/22 13:13,Teodor Sipson,50,Blue,Not Satisfied,TRUE
+10/22/22 21:45,Nadeen Giraudat,48,Red,Satisfied,FALSE
+01/14/23 19:22,Clementia Haken,31,Green,Satisfied,TRUE
+11/15/22 17:55,Benjamin Liddiard,53,Red,Not Satisfied,FALSE
+06/28/22 22:52,Gnni Vandrill,41,Gray,Very Satisfied,TRUE
+10/30/22 16:57,Keir La Grange,43,Blue,Not Satisfied,TRUE
+05/25/22 6:35,Henrietta MacAskie,40,Brown,Not Satisfied,TRUE
+05/12/22 22:44,Albertina Paulson,40,Brown,Slightly Satisfied,TRUE
+07/24/22 14:27,Conny Poller,40,Amber,Not Satisfied,FALSE
+10/25/22 4:59,Cinda O'Cassidy,48,Blue,Extremely Satisfied,TRUE
+05/18/22 19:15,Eudora Schoroder,63,Amber,Very Satisfied,FALSE
+08/06/22 7:53,Flin Ricca,33,Blue,Satisfied,TRUE
+04/16/22 0:14,Baldwin Farthin,47,Blue,Very Satisfied,FALSE
+01/21/23 3:11,Taylor Gatchel,47,Green,Satisfied,FALSE
+08/04/22 10:41,Allissa Barras,33,Gray,Slightly Satisfied,FALSE
+11/10/22 4:29,Viola Maddick,58,Brown,Slightly Satisfied,TRUE
+06/24/22 15:28,Kaine Inston,51,Red,Satisfied,TRUE
+02/16/22 7:45,Benjamin Aylward,48,Amber,Satisfied,FALSE
+10/07/22 2:46,Winona Pristnor,54,Brown,Satisfied,TRUE
+09/04/22 15:07,Estele Andreazzi,39,Gray,Extremely Satisfied,FALSE
+10/30/22 9:03,Denice Giacomoni,31,Red,Very Satisfied,TRUE
+03/18/22 21:16,Avis Pentony,65,Gray,Very Satisfied,FALSE
+03/26/22 23:54,Corrie Colleer,29,Hazel,Slightly Satisfied,TRUE
+09/26/22 21:21,Katti Malshinger,25,Red,Satisfied,TRUE
+02/01/23 12:27,Beryl Geistmann,62,Brown,Extremely Satisfied,TRUE
+11/28/22 20:08,Miranda Valentine,47,Blue,Extremely Satisfied,TRUE
+05/29/22 6:30,Edvard Karpenya,58,Gray,Very Satisfied,FALSE
+03/15/22 21:40,Creight Slimings,35,Green,Extremely Satisfied,TRUE
+02/02/23 1:43,Elisabeth Maffetti,42,Red,Satisfied,TRUE
+05/06/22 12:31,Romain Sewall,34,Red,Satisfied,FALSE
+09/09/22 23:43,Anni Cockerell,29,Gray,Not Satisfied,TRUE
+01/16/23 5:17,Lennie Feye,32,Brown,Not Satisfied,FALSE
+03/23/22 15:45,Elianora Greatbank,64,Red,Extremely Satisfied,FALSE
+12/07/22 15:58,Ami Scutts,52,Gray,Very Satisfied,TRUE
+10/21/22 23:57,Roseann Towler,53,Green,Slightly Satisfied,TRUE
+06/22/22 9:20,Gerik Samweyes,59,Blue,Slightly Satisfied,FALSE
+04/26/22 14:41,Daniel Kalberer,40,Red,Very Satisfied,TRUE
+09/08/22 23:10,Redford Sea,62,Green,Not Satisfied,FALSE
+10/29/22 14:39,Nat Locks,47,Brown,Very Satisfied,FALSE
+06/18/22 13:45,Leela Boman,61,Gray,Extremely Satisfied,FALSE
+01/21/23 20:46,Dennet Townley,60,Hazel,Extremely Satisfied,TRUE
+06/12/22 20:19,Craggy Arendt,47,Brown,Extremely Satisfied,TRUE
+07/18/22 5:17,Townie Aldwick,52,Green,Slightly Satisfied,FALSE
+03/30/22 12:54,Dov Prigmore,48,Green,Not Satisfied,FALSE
+03/09/22 23:12,Ailina Cargill,34,Amber,Extremely Satisfied,FALSE
+08/19/22 2:52,Fallon Tal,44,Gray,Very Satisfied,FALSE
+03/28/22 6:01,Myrlene Peller,48,Amber,Extremely Satisfied,FALSE
+05/19/22 12:12,Gussi O'Hartagan,33,Brown,Slightly Satisfied,TRUE
+11/29/22 18:22,Orelle Kincaid,40,Gray,Extremely Satisfied,TRUE
+07/25/22 11:56,Lottie Kowalik,58,Blue,Not Satisfied,TRUE
+02/16/22 10:18,Rosemonde Yapp,29,Amber,Very Satisfied,TRUE
+06/20/22 8:03,Clarabelle Drescher,39,Amber,Slightly Satisfied,FALSE
+01/19/23 21:15,Filmer Canet,32,Blue,Not Satisfied,FALSE
+12/03/22 9:16,Lucky Deverell,54,Amber,Very Satisfied,TRUE
+10/18/22 15:08,Roscoe Mildmott,56,Green,Slightly Satisfied,TRUE
+03/05/22 5:12,Ahmad Lasty,43,Gray,Extremely Satisfied,TRUE
+07/04/22 10:30,Kirstyn Cicullo,45,Red,Slightly Satisfied,TRUE
+02/24/22 7:35,Donelle Friel,41,Red,Not Satisfied,FALSE
+06/03/22 3:16,May Checketts,59,Amber,Not Satisfied,TRUE
+07/07/22 14:46,Haskell Wilcher,28,Green,Extremely Satisfied,FALSE
+04/21/22 20:31,Valentina Sigg,44,Red,Satisfied,FALSE
+04/15/22 20:41,Candie Rehm,53,Blue,Slightly Satisfied,FALSE
+06/25/22 12:19,Jaquenette Fuggle,45,Hazel,Slightly Satisfied,FALSE
+12/31/22 18:42,Tasha Fludgate,53,Green,Extremely Satisfied,TRUE
+08/13/22 14:21,Clair Bottrell,63,Hazel,Not Satisfied,FALSE
+10/05/22 5:24,Carina Sentinella,48,Red,Satisfied,FALSE
+07/10/22 16:48,Nikos Cunney,39,Blue,Satisfied,FALSE
+02/14/22 5:02,Arlina Laddle,52,Green,Satisfied,TRUE
+06/05/22 13:28,Huberto Domenichelli,53,Red,Extremely Satisfied,TRUE
+09/06/22 1:21,Ephrayim Thunnercliff,32,Brown,Very Satisfied,FALSE
+12/11/22 6:35,Chiarra Klosa,38,Amber,Slightly Satisfied,FALSE
+07/08/22 9:15,Sue Brea,62,Green,Not Satisfied,FALSE
+10/24/22 8:29,Ophelia Pipworth,58,Blue,Very Satisfied,FALSE
+03/18/22 14:30,Evey Caskey,49,Brown,Satisfied,TRUE
+09/18/22 6:33,Kennett Gill,57,Blue,Very Satisfied,FALSE
+02/09/23 20:32,Davidson Ellyatt,29,Amber,Satisfied,TRUE
+06/12/22 21:49,Harrie Mungan,28,Green,Very Satisfied,FALSE
+03/09/22 22:27,Ardeen Danilchenko,39,Blue,Slightly Satisfied,TRUE
+10/12/22 2:11,Inesita Allen,49,Gray,Extremely Satisfied,FALSE
+12/15/22 8:25,Ophelie Brigginshaw,42,Brown,Satisfied,FALSE
+08/30/22 22:27,Lurleen Foan,29,Red,Extremely Satisfied,TRUE
+09/18/22 23:40,Terrell Pury,28,Gray,Extremely Satisfied,FALSE
+09/04/22 11:48,Bridgette MacPhee,25,Gray,Slightly Satisfied,FALSE
+08/08/22 10:59,Veronica Guerro,45,Amber,Very Satisfied,TRUE
+12/12/22 5:21,Eydie Craister,25,Amber,Slightly Satisfied,TRUE
+11/22/22 20:52,Candice Slatcher,40,Brown,Very Satisfied,TRUE
+12/20/22 8:25,Olly Troucher,54,Hazel,Very Satisfied,TRUE
+08/06/22 8:34,Jacky Grindley,46,Gray,Very Satisfied,TRUE
+11/26/22 22:14,Hayley Truggian,53,Amber,Satisfied,TRUE
+12/19/22 23:11,Rolph Victoria,38,Gray,Very Satisfied,FALSE
+04/27/22 12:46,Maurice Kose,30,Gray,Very Satisfied,FALSE
+05/31/22 1:10,Gayler Sempill,51,Hazel,Satisfied,TRUE
+04/22/22 8:58,Terrie Hinkins,31,Hazel,Satisfied,TRUE
+09/17/22 2:43,Blayne Hubball,33,Amber,Very Satisfied,FALSE
+08/06/22 19:08,Jackson Demcik,64,Red,Not Satisfied,FALSE
+05/29/22 2:19,Madel Pockey,39,Hazel,Extremely Satisfied,FALSE
+08/07/22 21:15,Georgianne Naper,46,Hazel,Extremely Satisfied,TRUE
+12/23/22 13:00,Blondy Codman,44,Gray,Slightly Satisfied,TRUE
+05/28/22 2:14,Desmond Tace,29,Blue,Satisfied,FALSE
+12/06/22 8:17,Juana Kender,40,Green,Slightly Satisfied,TRUE
+04/29/22 0:33,Putnem Lambersen,34,Blue,Not Satisfied,FALSE
+01/22/23 22:35,Freeman Wisbey,28,Green,Slightly Satisfied,TRUE
+06/02/22 7:16,Gonzales Knuckles,47,Amber,Slightly Satisfied,TRUE
+03/28/22 3:40,Robbin McGinney,43,Blue,Very Satisfied,FALSE
+11/19/22 19:03,Lester Moses,45,Hazel,Slightly Satisfied,FALSE
+12/15/22 18:52,Lisette Pickervance,26,Hazel,Not Satisfied,TRUE
+10/15/22 5:13,Tracie Sweynson,38,Hazel,Satisfied,TRUE
+05/01/22 7:19,Sergent Makin,58,Red,Extremely Satisfied,FALSE
+06/30/22 19:59,Garry Roof,49,Hazel,Very Satisfied,FALSE
+03/05/22 2:47,Sarge Bordessa,65,Amber,Not Satisfied,TRUE
+02/26/22 20:36,Phelia Boase,45,Gray,Satisfied,FALSE
+12/27/22 2:08,Annabelle Ranyell,44,Amber,Not Satisfied,FALSE
+08/15/22 12:59,Callida Prangle,52,Amber,Slightly Satisfied,FALSE
+05/17/22 13:27,Isadore Zupone,52,Blue,Extremely Satisfied,FALSE
+09/23/22 0:58,Fernanda Hagger,54,Blue,Slightly Satisfied,TRUE
+08/05/22 12:03,Sergio Giffard,41,Amber,Not Satisfied,TRUE
+07/03/22 7:32,Zorah Simmen,39,Red,Extremely Satisfied,FALSE
+07/27/22 5:49,Clarie Gerrard,40,Brown,Very Satisfied,TRUE
+03/13/22 3:56,Bird Lyptrit,57,Blue,Slightly Satisfied,FALSE
+08/03/22 7:26,Lynnea Oxenbury,51,Gray,Extremely Satisfied,TRUE
+10/29/22 3:52,Elbert Habert,60,Gray,Satisfied,TRUE
+11/07/22 23:41,Ericka Clausson,58,Blue,Very Satisfied,FALSE
+10/30/22 10:53,Mufi Cometti,64,Blue,Not Satisfied,FALSE
+11/26/22 21:07,Nealon Sibery,54,Amber,Slightly Satisfied,TRUE
+12/19/22 13:10,Ingaberg Shemming,61,Amber,Satisfied,FALSE
+08/25/22 13:07,Derick Seide,45,Amber,Extremely Satisfied,FALSE
+04/06/22 5:44,Kath MacDuffie,27,Blue,Not Satisfied,TRUE
+01/14/23 19:44,Merrily Finnigan,39,Hazel,Very Satisfied,FALSE
+12/16/22 8:40,Jessey Tinghill,30,Brown,Satisfied,FALSE
+01/31/23 6:15,Goldie Whyler,34,Red,Satisfied,FALSE
+02/02/23 7:26,Cindelyn Childes,65,Gray,Not Satisfied,TRUE
+01/11/23 3:32,Benoite Norville,36,Blue,Very Satisfied,TRUE
+04/22/22 19:14,Flo Rudd,44,Hazel,Slightly Satisfied,TRUE
+08/08/22 18:07,Galina Patroni,63,Gray,Very Satisfied,FALSE
+06/26/22 1:42,Rozamond Dunstone,58,Brown,Extremely Satisfied,TRUE
+06/09/22 13:32,Elmira Mibourne,31,Red,Not Satisfied,FALSE
+01/03/23 20:38,Inge Frew,26,Hazel,Very Satisfied,TRUE
+06/02/22 8:45,Lainey Benitti,36,Gray,Very Satisfied,FALSE
+10/21/22 17:02,Ganny Rigby,58,Brown,Satisfied,FALSE
+10/02/22 21:05,Sidonia Saunders,44,Hazel,Satisfied,FALSE
+06/30/22 20:19,Kristal Jahnke,38,Hazel,Satisfied,TRUE
+08/11/22 13:22,Stevena Brenton,51,Green,Slightly Satisfied,FALSE
+04/12/22 3:33,Esta Jerrems,44,Amber,Extremely Satisfied,TRUE
+04/08/22 15:59,Dale Stoppard,60,Gray,Very Satisfied,FALSE
+08/05/22 11:24,Chen Gandley,42,Red,Very Satisfied,TRUE
+02/07/23 15:36,Martelle Sheather,26,Brown,Slightly Satisfied,FALSE
+12/29/22 15:38,Quentin Carryer,45,Green,Slightly Satisfied,TRUE
+12/13/22 10:45,Minnaminnie Dodimead,57,Red,Satisfied,TRUE
+08/22/22 13:53,Clement Chinnock,42,Hazel,Extremely Satisfied,FALSE
+08/04/22 9:20,Domingo Panner,37,Blue,Very Satisfied,FALSE
+07/20/22 10:12,Vivie Ruffle,29,Hazel,Very Satisfied,TRUE
+03/17/22 6:43,Shirl Lippo,55,Blue,Very Satisfied,TRUE
+08/28/22 9:21,Nessie Jupp,59,Brown,Very Satisfied,FALSE
+08/04/22 22:01,Letisha Agates,58,Gray,Satisfied,TRUE
+10/21/22 5:56,Odette Jenik,44,Blue,Extremely Satisfied,TRUE
+05/04/22 6:56,Keelby Restill,48,Green,Slightly Satisfied,TRUE
+09/30/22 11:11,Laverna Brum,40,Red,Not Satisfied,TRUE
+10/31/22 2:16,Darelle Wheatcroft,44,Red,Slightly Satisfied,TRUE
+12/20/22 5:12,Boigie Wardhaugh,62,Amber,Extremely Satisfied,FALSE
+07/22/22 12:01,Loella Devenport,47,Gray,Very Satisfied,TRUE
+10/21/22 5:35,Jarred Mowett,27,Green,Slightly Satisfied,TRUE
+01/07/23 13:10,Bird Mioni,32,Hazel,Not Satisfied,FALSE
+05/16/22 4:43,Ruddy Cowdray,55,Brown,Slightly Satisfied,FALSE
+05/05/22 10:43,Helaina Shipp,39,Hazel,Slightly Satisfied,TRUE
+01/10/23 2:24,Dunstan Belfelt,62,Brown,Extremely Satisfied,TRUE
+01/01/23 8:25,Kerri Ivanichev,51,Gray,Satisfied,FALSE
+04/23/22 23:35,Chelsey Wedon,48,Brown,Slightly Satisfied,TRUE
+10/03/22 20:46,Theodor Witheridge,34,Green,Satisfied,TRUE
+07/28/22 11:29,Derron Allner,27,Amber,Satisfied,TRUE
+06/14/22 8:38,Nikolia Vanderson,40,Green,Satisfied,TRUE
+12/21/22 21:31,Lavinie Elsmor,53,Green,Not Satisfied,FALSE
+11/23/22 13:48,Dulcinea Donn,34,Amber,Slightly Satisfied,FALSE
+05/28/22 20:13,Joshia Lashmore,53,Green,Satisfied,TRUE
+03/21/22 14:43,Christy Hayle,55,Blue,Extremely Satisfied,TRUE
+04/08/22 2:34,Sutherlan Stutt,47,Hazel,Not Satisfied,FALSE
+06/27/22 5:46,Margie Gorrick,56,Amber,Very Satisfied,FALSE
+08/04/22 10:09,Gail Behr,50,Amber,Satisfied,TRUE
+02/04/23 21:27,Rozalie Barlie,35,Hazel,Extremely Satisfied,FALSE
+08/19/22 4:04,Mirelle Lyburn,50,Red,Very Satisfied,FALSE
+05/01/22 23:07,Hube Plewes,29,Blue,Satisfied,FALSE
+12/04/22 9:46,Kilian Chellingworth,25,Red,Satisfied,FALSE
+07/17/22 23:54,Ellery Caplen,26,Blue,Extremely Satisfied,TRUE
+10/02/22 20:04,Sibeal Andreou,52,Amber,Not Satisfied,FALSE
+10/05/22 14:56,Andy O' Concannon,52,Amber,Satisfied,FALSE
+06/02/22 7:27,Onfre Veque,26,Green,Slightly Satisfied,TRUE
+09/04/22 11:09,Trevar Downey,38,Gray,Not Satisfied,TRUE
+02/20/22 11:21,Shirley Charters,62,Brown,Very Satisfied,TRUE
+10/19/22 0:49,Jeanne Enston,41,Amber,Extremely Satisfied,FALSE
+06/23/22 19:39,Wain Chinn,43,Brown,Very Satisfied,FALSE
+08/25/22 15:28,Quinton Rowbrey,37,Hazel,Extremely Satisfied,FALSE
+03/09/22 18:19,Skye Debill,55,Brown,Very Satisfied,TRUE
+09/15/22 2:20,Denyse Petroff,44,Blue,Slightly Satisfied,TRUE
+04/14/22 17:41,Shirl Girardini,62,Green,Extremely Satisfied,TRUE
+12/04/22 5:08,Rutherford Giamitti,28,Blue,Not Satisfied,FALSE
+11/22/22 2:37,Yolanthe Duferie,25,Green,Not Satisfied,FALSE
+02/11/23 1:07,Bradford Dannel,48,Blue,Extremely Satisfied,FALSE
+11/04/22 14:12,Alley Tingly,31,Gray,Satisfied,TRUE
+07/20/22 20:29,Riley Chilver,53,Blue,Very Satisfied,TRUE
+03/03/22 4:06,Zacharia Basnett,55,Blue,Satisfied,FALSE
+04/01/22 11:42,Tobey Reye,42,Blue,Very Satisfied,TRUE
+02/08/23 16:14,Fabiano Howroyd,44,Gray,Satisfied,FALSE
+06/12/22 10:17,Derby Farndon,64,Hazel,Very Satisfied,TRUE
+01/24/23 6:37,Alexio Beeck,51,Green,Not Satisfied,TRUE
+10/20/22 12:52,Flinn Palatino,38,Gray,Extremely Satisfied,FALSE
+03/16/22 5:20,Aimil Giovanardi,32,Red,Slightly Satisfied,FALSE
+08/04/22 21:52,Ike Mayo,47,Brown,Slightly Satisfied,TRUE
+07/01/22 23:11,Jorrie Vaskov,28,Red,Very Satisfied,TRUE
+08/12/22 16:07,Tiff Shillam,55,Blue,Extremely Satisfied,FALSE
+09/29/22 2:50,Sharla Buesnel,34,Green,Satisfied,FALSE
+10/29/22 20:00,Aldous Antonellini,34,Brown,Slightly Satisfied,FALSE
+02/11/23 1:57,Lexine Rudram,28,Blue,Very Satisfied,TRUE
+04/18/22 20:38,Burk Liversage,41,Red,Not Satisfied,FALSE
+05/16/22 10:19,Darryl Garroway,64,Blue,Extremely Satisfied,TRUE
+07/19/22 18:43,D'arcy Mawdsley,37,Blue,Satisfied,FALSE
+02/11/23 4:00,Junette Blaker,34,Blue,Satisfied,FALSE
+04/14/22 20:39,Kari Taphouse,37,Gray,Extremely Satisfied,TRUE
+10/10/22 14:14,Christye Muddicliffe,49,Gray,Slightly Satisfied,TRUE
+06/28/22 2:39,Antonina O'Gaven,29,Green,Very Satisfied,FALSE
+01/25/23 3:39,Maddie Brunstan,41,Hazel,Extremely Satisfied,FALSE
+07/30/22 16:55,Booth Ebbett,52,Green,Not Satisfied,FALSE
+02/27/22 9:07,Tynan Guidi,40,Gray,Slightly Satisfied,TRUE
+04/26/22 13:35,Illa Cotilard,47,Blue,Not Satisfied,TRUE
+02/05/23 6:09,Shari O'Clery,46,Gray,Very Satisfied,FALSE
+04/05/22 1:42,Spike Harkin,56,Brown,Satisfied,FALSE
+09/16/22 14:55,Isidro Dagless,32,Hazel,Slightly Satisfied,FALSE
+09/22/22 11:40,Nikolas O'Doran,62,Blue,Not Satisfied,TRUE
+12/26/22 17:48,Billy Watford,62,Blue,Not Satisfied,FALSE
+01/27/23 18:56,Halley Harsent,32,Red,Slightly Satisfied,TRUE
+04/04/22 2:03,Upton Wiz,47,Brown,Extremely Satisfied,TRUE
+05/29/22 16:09,Byran Fennessy,31,Red,Extremely Satisfied,FALSE
+06/27/22 0:19,Alene Ghent,63,Hazel,Very Satisfied,FALSE
+09/02/22 23:12,Ezri Cavalier,39,Hazel,Not Satisfied,TRUE
+05/30/22 23:30,Gayle Stow,52,Brown,Not Satisfied,FALSE
+12/07/22 15:10,Nicholle Beament,64,Gray,Slightly Satisfied,FALSE
+03/16/22 21:08,Clementine Crewe,48,Gray,Satisfied,TRUE
+07/30/22 16:28,Laurice Rougier,27,Blue,Extremely Satisfied,FALSE
+04/28/22 9:28,Osgood Rosindill,59,Hazel,Slightly Satisfied,FALSE
+10/05/22 4:50,Elke Althrope,32,Gray,Slightly Satisfied,TRUE
+07/01/22 19:08,Mimi MacCheyne,57,Amber,Not Satisfied,FALSE
+03/27/22 23:28,Flore Glewe,32,Blue,Not Satisfied,FALSE
+12/29/22 15:33,Valentino Snawden,59,Green,Satisfied,TRUE
+05/22/22 11:17,Woody Chafer,45,Red,Extremely Satisfied,TRUE
+01/03/23 4:45,Heidi Omand,65,Gray,Satisfied,FALSE
+10/18/22 4:08,Yancey Caddell,34,Blue,Satisfied,FALSE
+06/24/22 21:26,Ninnetta Dyball,38,Gray,Not Satisfied,FALSE
+06/21/22 9:50,Camel Blemen,28,Red,Extremely Satisfied,FALSE
+06/25/22 19:29,Winnie Lutman,43,Amber,Not Satisfied,TRUE
+06/08/22 12:04,Archie Balf,48,Green,Not Satisfied,FALSE
+05/11/22 1:41,Clarissa Hoggan,59,Amber,Slightly Satisfied,FALSE
+08/21/22 11:34,Claudio O'Fogarty,49,Amber,Very Satisfied,FALSE
+08/11/22 21:40,Gilburt Cubley,41,Amber,Satisfied,TRUE
+03/28/22 7:48,Pedro Dog,45,Blue,Satisfied,TRUE
+03/10/22 6:16,Gilbertine Knagges,65,Green,Very Satisfied,FALSE
+11/08/22 22:38,Maurizio Tollerfield,52,Amber,Slightly Satisfied,FALSE
+10/24/22 19:56,Tonnie Guiot,33,Green,Not Satisfied,TRUE
+03/15/22 13:44,Tate Vogel,52,Blue,Not Satisfied,TRUE
+01/17/23 3:05,Geno Rubinowicz,53,Green,Very Satisfied,TRUE
+10/11/22 9:38,Damara Rantoul,48,Hazel,Not Satisfied,TRUE
+09/18/22 13:40,Archibaldo Searston,41,Green,Satisfied,TRUE
+04/09/22 15:13,Cher Wiltshire,49,Green,Not Satisfied,TRUE
+11/19/22 20:05,Kali Glazier,43,Amber,Very Satisfied,TRUE
+10/31/22 2:31,Derek Monahan,45,Green,Satisfied,TRUE
+03/03/22 12:32,Torry Farmloe,58,Hazel,Slightly Satisfied,FALSE
+11/06/22 22:48,Gerrilee Ummfrey,28,Hazel,Extremely Satisfied,FALSE
+07/09/22 15:42,Skyler Celloni,47,Green,Not Satisfied,TRUE
+08/11/22 9:10,Mignonne Cappel,34,Red,Not Satisfied,FALSE
+01/28/23 7:02,Brendon Tricker,30,Brown,Satisfied,FALSE
+08/16/22 16:54,Ely Cayton,56,Green,Very Satisfied,FALSE
+10/29/22 20:35,Siouxie Gerdts,33,Green,Satisfied,FALSE
+07/25/22 17:07,Lynne Doneld,44,Hazel,Satisfied,TRUE
+11/10/22 16:03,Skipper Jiracek,40,Blue,Very Satisfied,TRUE
+12/26/22 22:17,Sisile Ormistone,39,Amber,Very Satisfied,FALSE
+11/19/22 10:12,Lizzie Waison,27,Gray,Very Satisfied,TRUE
+10/31/22 3:25,Donalt Downage,45,Red,Extremely Satisfied,FALSE
+03/06/22 16:39,Sully Starsmore,62,Amber,Satisfied,FALSE
+07/28/22 0:46,Sutton Cooksley,47,Blue,Slightly Satisfied,FALSE
+12/16/22 13:31,Ealasaid Munks,40,Brown,Slightly Satisfied,TRUE
+03/06/22 15:38,Clare Daley,50,Amber,Extremely Satisfied,TRUE
+04/19/22 13:18,Marieann Delgardo,63,Hazel,Extremely Satisfied,FALSE
+04/25/22 5:44,Donia Gaven,45,Red,Not Satisfied,TRUE
+10/30/22 23:22,Betteann Rudderham,53,Green,Extremely Satisfied,TRUE
+07/04/22 18:28,Kipper Beak,64,Red,Satisfied,TRUE
+08/24/22 4:27,Isador Reddin,55,Green,Extremely Satisfied,FALSE
+11/10/22 13:52,Isaiah Conboy,46,Brown,Extremely Satisfied,FALSE
+03/30/22 4:22,Alphonso Mauditt,40,Hazel,Satisfied,TRUE
+09/13/22 22:55,Donelle McArdell,37,Gray,Slightly Satisfied,FALSE
+05/20/22 22:42,Zach Nitto,28,Red,Very Satisfied,FALSE
+12/09/22 4:24,Emmy Stitwell,64,Red,Slightly Satisfied,FALSE
+02/19/22 9:32,Prentiss Eberts,30,Hazel,Not Satisfied,TRUE
+09/03/22 0:51,Jeannie Mossman,56,Green,Not Satisfied,FALSE
+01/23/23 0:19,Ingra Briffett,30,Brown,Slightly Satisfied,TRUE
+05/17/22 2:38,Bryn Piburn,51,Brown,Slightly Satisfied,FALSE
+06/03/22 16:36,Wini Gaisford,52,Green,Not Satisfied,TRUE
+04/16/22 3:08,Rosene Lenchenko,41,Gray,Very Satisfied,FALSE
+09/14/22 13:48,Roda Dwelley,36,Red,Satisfied,FALSE
+05/29/22 6:56,Dorice Gidney,30,Blue,Satisfied,FALSE
+02/20/22 6:55,Dari Gozard,38,Amber,Satisfied,TRUE
+04/16/22 18:29,Bryn Kunzel,60,Hazel,Slightly Satisfied,FALSE
+12/03/22 12:07,Camel Deluze,41,Green,Extremely Satisfied,FALSE
+02/22/22 18:27,Durante Eade,65,Gray,Not Satisfied,TRUE
+05/25/22 18:20,Irwin Burd,36,Brown,Extremely Satisfied,FALSE
+02/24/22 11:26,Shawna Laird-Craig,25,Gray,Slightly Satisfied,TRUE
+10/06/22 10:12,Anet Shorton,37,Green,Extremely Satisfied,TRUE
+04/11/22 16:40,Donella Hundley,41,Red,Slightly Satisfied,FALSE
+11/29/22 1:37,Kipp Ellin,38,Hazel,Slightly Satisfied,FALSE
+09/13/22 22:03,Lorrie Reedshaw,37,Red,Extremely Satisfied,TRUE
+05/10/22 8:55,Pauline Totman,26,Brown,Very Satisfied,TRUE
+10/14/22 5:24,Liuka Crevy,57,Hazel,Very Satisfied,TRUE
+07/13/22 18:49,Gayla Mussington,53,Brown,Not Satisfied,TRUE
+08/16/22 22:16,Whit Cockhill,64,Blue,Very Satisfied,FALSE
+02/26/22 12:37,Jeralee Tithecote,41,Hazel,Slightly Satisfied,FALSE
+02/09/23 3:50,Dulce Rouchy,35,Amber,Not Satisfied,TRUE
+04/02/22 19:27,Kyle McCorkell,29,Gray,Very Satisfied,TRUE
+01/03/23 4:54,Sadye Cissell,46,Red,Extremely Satisfied,TRUE
+01/30/23 20:06,Kristofor Rowantree,33,Amber,Extremely Satisfied,TRUE
+02/13/22 19:45,Samantha Jeffers,41,Amber,Very Satisfied,TRUE
+12/27/22 20:27,Ebenezer Fruen,58,Red,Not Satisfied,TRUE
+02/23/22 2:41,Simona Boynes,31,Red,Slightly Satisfied,FALSE
+10/06/22 20:24,Serge Duchenne,44,Amber,Satisfied,FALSE
+11/15/22 11:30,Vernon Elverston,37,Brown,Very Satisfied,FALSE
+10/28/22 17:40,Dreddy Halm,57,Hazel,Extremely Satisfied,TRUE
+06/13/22 9:08,Viki Coytes,30,Hazel,Satisfied,FALSE
+12/30/22 9:46,Earlie Stobart,60,Green,Slightly Satisfied,TRUE
+05/18/22 17:49,Talyah Speight,54,Hazel,Extremely Satisfied,TRUE
+04/16/22 8:43,Misti Harkin,51,Green,Extremely Satisfied,FALSE
+09/05/22 11:34,Joanna Becom,38,Green,Slightly Satisfied,TRUE
+03/10/22 22:15,Johnath Pollitt,33,Brown,Not Satisfied,FALSE
+06/19/22 6:33,Rivi Merrick,33,Green,Not Satisfied,FALSE
+12/23/22 17:07,Kale Cansdill,32,Red,Very Satisfied,TRUE
+06/26/22 5:11,Gene Goering,61,Brown,Extremely Satisfied,FALSE
+09/12/22 4:52,Aldrich Gallahue,33,Red,Extremely Satisfied,TRUE
+08/16/22 9:02,Bobina Dziwisz,63,Blue,Not Satisfied,FALSE
+11/30/22 11:01,Son Croley,46,Green,Satisfied,TRUE
+10/26/22 8:13,Marti Lukacs,46,Red,Slightly Satisfied,FALSE
+02/22/22 12:59,Lucille Jiggen,59,Hazel,Satisfied,TRUE
+06/10/22 0:30,Simonne Sydry,35,Red,Extremely Satisfied,TRUE
+07/21/22 10:28,Bendick Linthead,50,Brown,Very Satisfied,TRUE
+10/18/22 14:03,Edward Keyser,43,Amber,Not Satisfied,TRUE
+06/06/22 6:41,Karoline Le Breton De La Vieuville,63,Green,Satisfied,FALSE
+06/04/22 23:05,Ingaberg Maylott,52,Gray,Very Satisfied,FALSE
+10/13/22 2:55,Reed Tadgell,41,Green,Very Satisfied,TRUE
+09/28/22 13:58,Manuel Vivyan,59,Brown,Not Satisfied,FALSE
+07/03/22 23:00,Misha Gregorin,53,Hazel,Very Satisfied,TRUE
+06/27/22 22:17,Rebekkah Gatfield,63,Brown,Extremely Satisfied,TRUE
+08/31/22 3:01,Maximilianus Lodo,34,Brown,Not Satisfied,TRUE
+07/01/22 0:41,Beale Krout,35,Gray,Very Satisfied,TRUE
+11/11/22 16:14,Arlyn Lovel,25,Red,Satisfied,TRUE
+12/20/22 5:47,Brantley Hovy,43,Hazel,Not Satisfied,FALSE
+04/01/22 10:58,Virge Schultheiss,42,Brown,Very Satisfied,TRUE
+09/18/22 18:28,Alford Fiennes,48,Red,Not Satisfied,TRUE
+09/04/22 8:01,Dyanna Benit,55,Brown,Extremely Satisfied,TRUE
+05/21/22 23:20,Thomas Calbert,63,Gray,Extremely Satisfied,FALSE
+11/07/22 14:55,Nelia Dockwra,43,Green,Slightly Satisfied,TRUE
+07/21/22 6:50,Wendy Ades,40,Gray,Very Satisfied,FALSE
+12/02/22 6:31,Marcille Isson,29,Gray,Extremely Satisfied,FALSE
+09/23/22 10:17,Angelika Dunlap,53,Green,Slightly Satisfied,FALSE
+11/19/22 11:25,Dulcea Fairfoull,31,Amber,Very Satisfied,FALSE
+09/30/22 21:18,Cecil Negri,56,Brown,Satisfied,FALSE
+01/26/23 14:26,Pavel Dunwoody,47,Blue,Slightly Satisfied,FALSE
+02/18/22 10:23,Alexei Hullbrook,26,Amber,Not Satisfied,TRUE
+05/03/22 23:51,Jacky Zambonini,40,Amber,Extremely Satisfied,FALSE
+12/04/22 3:22,Kirbie Robben,30,Hazel,Very Satisfied,FALSE
+01/24/23 21:34,Andreas Shale,62,Hazel,Slightly Satisfied,FALSE
+09/24/22 2:10,Marcellina Midford,30,Gray,Very Satisfied,TRUE
+04/29/22 16:20,Thia Silcox,37,Brown,Extremely Satisfied,FALSE
+11/05/22 1:48,Constantin Dominelli,53,Hazel,Slightly Satisfied,TRUE
+07/30/22 17:00,Cory Laudham,32,Amber,Slightly Satisfied,TRUE
+02/03/23 12:58,Ferd Goadby,61,Green,Satisfied,FALSE
+01/13/23 16:09,Chrisse Prosh,51,Hazel,Satisfied,TRUE
+01/08/23 10:41,Marin Kindle,33,Red,Very Satisfied,FALSE
+06/24/22 20:47,Philipa Romaines,25,Hazel,Slightly Satisfied,TRUE
+08/26/22 10:06,Cornelius Albion,57,Gray,Satisfied,FALSE
+07/02/22 23:51,Ilsa Durston,35,Brown,Slightly Satisfied,FALSE
+01/01/23 22:33,Kaine Elliman,43,Green,Slightly Satisfied,FALSE
+11/30/22 1:45,Bunni Trippitt,37,Blue,Extremely Satisfied,TRUE
+04/28/22 5:18,Quintus Beasley,44,Red,Slightly Satisfied,FALSE
+09/22/22 2:08,Gene Sparling,51,Green,Slightly Satisfied,TRUE
+11/26/22 22:44,Willem Decaze,55,Gray,Slightly Satisfied,TRUE
+07/11/22 6:39,Gabi Coonan,58,Brown,Very Satisfied,TRUE
+04/24/22 3:13,Ayn Caroli,50,Gray,Satisfied,TRUE
+10/30/22 14:27,Bendicty Valero,53,Amber,Satisfied,FALSE
+07/19/22 1:06,Bary Charter,45,Amber,Slightly Satisfied,FALSE
+01/28/23 17:36,Bob Worham,59,Amber,Slightly Satisfied,FALSE
+02/25/22 11:53,Elana Mattheis,51,Hazel,Very Satisfied,FALSE
+01/12/23 9:17,Fairleigh Di Biaggi,48,Brown,Not Satisfied,TRUE
+11/11/22 21:14,Kylie Bartolomucci,33,Green,Satisfied,FALSE
+09/20/22 0:12,Markos Ingraham,64,Hazel,Slightly Satisfied,TRUE
+05/12/22 7:13,Swen Klimowski,48,Amber,Not Satisfied,FALSE
+04/13/22 9:52,Lucinda Feedome,42,Hazel,Extremely Satisfied,TRUE
+12/15/22 8:21,Eolande Tallent,52,Blue,Slightly Satisfied,TRUE
+11/10/22 2:19,Raven Fuller,31,Hazel,Slightly Satisfied,TRUE
+09/27/22 18:08,Vanda Dorgan,56,Red,Very Satisfied,TRUE
+03/19/22 19:55,Yvonne Thresh,61,Red,Slightly Satisfied,TRUE
+02/28/22 1:18,Ingram Souttar,29,Amber,Slightly Satisfied,TRUE
+08/12/22 22:46,Stephanie Borth,29,Gray,Very Satisfied,FALSE
+10/16/22 22:41,Giles Fortoun,27,Amber,Slightly Satisfied,TRUE
+08/09/22 4:44,Sherye Mebs,37,Red,Very Satisfied,TRUE
+10/02/22 2:43,Daniela Knipe,53,Gray,Slightly Satisfied,TRUE
+04/20/22 4:38,Emlyn Leisk,64,Green,Not Satisfied,FALSE
+07/22/22 6:39,Layla Mannagh,41,Hazel,Slightly Satisfied,FALSE
+04/19/22 19:30,Valida Saddler,30,Brown,Satisfied,FALSE
+05/20/22 9:17,Timoteo Ambrogini,62,Brown,Very Satisfied,FALSE
+12/24/22 4:57,Binni Bruggeman,65,Amber,Very Satisfied,TRUE
+03/12/22 17:44,Cyrille Fernely,36,Brown,Very Satisfied,FALSE
+09/15/22 3:34,Clim Juszkiewicz,53,Green,Extremely Satisfied,FALSE
+06/25/22 20:23,Jandy De Vaan,50,Brown,Satisfied,FALSE
+01/16/23 19:38,Morissa Spraggs,36,Gray,Extremely Satisfied,TRUE
+08/27/22 12:27,Angelico Edmenson,65,Blue,Slightly Satisfied,TRUE
+08/24/22 10:56,Rachelle Castano,31,Blue,Satisfied,TRUE
+10/01/22 16:44,Diarmid Yaknov,50,Red,Extremely Satisfied,TRUE
+02/04/23 11:00,Caesar Itzhaki,63,Green,Extremely Satisfied,TRUE
+09/20/22 3:52,Michele McOnie,32,Amber,Extremely Satisfied,FALSE
+02/25/22 4:08,Grier Peasey,50,Red,Very Satisfied,FALSE
+10/23/22 11:26,Wilmer Semmence,31,Blue,Not Satisfied,FALSE
+05/01/22 8:19,Ermengarde Britto,29,Blue,Satisfied,FALSE
+04/26/22 11:59,Davida Goddert.sf,35,Brown,Extremely Satisfied,FALSE
+09/13/22 10:56,Nolly Shower,61,Red,Extremely Satisfied,TRUE
+08/11/22 17:57,Ab Brayley,43,Gray,Satisfied,FALSE
+05/31/22 8:26,Gusti Parkman,42,Green,Not Satisfied,TRUE
+11/19/22 12:02,Caril Tukesby,57,Blue,Extremely Satisfied,FALSE
+09/30/22 17:35,Michelina Kensington,26,Red,Not Satisfied,TRUE
+04/24/22 9:18,Elliott Descroix,52,Amber,Very Satisfied,TRUE
+07/28/22 11:49,Rainer Marshal,61,Gray,Satisfied,TRUE
+07/06/22 7:12,Hakeem Grix,37,Brown,Very Satisfied,FALSE
+06/27/22 19:18,Hailee Lothean,29,Green,Satisfied,TRUE
+05/07/22 3:03,Kellie Burnyate,54,Gray,Very Satisfied,TRUE
+08/18/22 17:52,Nadine Prendergrass,40,Gray,Slightly Satisfied,TRUE
+04/11/22 16:29,Gail Munby,31,Amber,Satisfied,TRUE
+06/16/22 6:28,Celene Flade,46,Amber,Very Satisfied,TRUE
+07/31/22 13:18,Essy Birchner,60,Hazel,Not Satisfied,TRUE
+11/07/22 17:27,Zebulen Dunlea,42,Green,Slightly Satisfied,FALSE
+05/26/22 7:05,Carree Domanek,32,Green,Very Satisfied,FALSE
+08/03/22 4:13,Hyacinthe Darch,30,Hazel,Not Satisfied,FALSE
+09/26/22 18:27,Giana Dhillon,39,Gray,Extremely Satisfied,TRUE
+08/02/22 4:29,Jany Gaynor,46,Gray,Very Satisfied,TRUE
+10/13/22 2:24,Rebeca Jeacock,46,Green,Satisfied,FALSE
+05/01/22 4:26,Ashley Halpen,64,Blue,Not Satisfied,FALSE
+03/21/22 8:14,Lizabeth Russon,46,Green,Extremely Satisfied,FALSE
+04/24/22 15:14,Sam Bigham,29,Amber,Extremely Satisfied,TRUE
+11/11/22 23:52,Adele Lister,51,Green,Satisfied,TRUE
+06/09/22 3:00,Sylvan Kunrad,29,Green,Slightly Satisfied,FALSE
+06/12/22 4:06,Rochelle Crommett,50,Brown,Extremely Satisfied,TRUE
+11/17/22 11:20,Von Fominov,25,Hazel,Satisfied,FALSE
+01/16/23 16:58,Caleb Grafton,59,Blue,Extremely Satisfied,FALSE
+11/06/22 15:48,Chad Borres,33,Amber,Very Satisfied,FALSE
+12/03/22 5:58,Ernestus Devonshire,43,Blue,Extremely Satisfied,FALSE
+11/20/22 5:13,Pauli Domek,37,Gray,Not Satisfied,FALSE
+10/30/22 16:21,Nickola Winham,27,Amber,Very Satisfied,FALSE
+01/22/23 5:26,Mario Baverstock,44,Gray,Very Satisfied,FALSE
+08/20/22 12:58,Any Buchanan,54,Gray,Satisfied,FALSE
+08/25/22 14:43,Fergus Drinkhill,64,Brown,Slightly Satisfied,FALSE
+02/05/23 15:32,Creight Lowrie,45,Red,Very Satisfied,FALSE
+12/25/22 16:10,Sheela Bovey,40,Gray,Very Satisfied,TRUE
+05/17/22 14:57,Laughton Garfath,59,Blue,Not Satisfied,TRUE
+10/01/22 0:16,Davida Stoute,62,Gray,Not Satisfied,FALSE
+05/04/22 18:22,Alysia Manchester,40,Blue,Extremely Satisfied,TRUE
+11/03/22 20:45,Rose Chessell,51,Amber,Extremely Satisfied,TRUE
+06/29/22 5:23,Gusti Tilmouth,62,Gray,Not Satisfied,FALSE
+05/03/22 21:04,Ives Eversfield,32,Amber,Extremely Satisfied,TRUE
+12/27/22 20:59,Weston Issard,52,Green,Slightly Satisfied,TRUE
+02/18/22 16:07,Marci Iveans,57,Green,Not Satisfied,TRUE
+01/12/23 2:56,Anatole Benner,40,Red,Extremely Satisfied,TRUE
+08/29/22 17:05,Jarrod De Morena,48,Amber,Extremely Satisfied,TRUE
+02/17/22 11:09,Cordi McGann,62,Blue,Satisfied,FALSE
+01/23/23 20:51,Yale Bailes,37,Amber,Not Satisfied,TRUE
+11/27/22 12:56,Mimi Tilbrook,39,Hazel,Not Satisfied,FALSE
+06/17/22 12:51,Giustino Ebbens,33,Brown,Slightly Satisfied,TRUE
+04/16/22 4:45,Vere Jellybrand,60,Brown,Extremely Satisfied,FALSE
+04/14/22 20:03,Catherin Tomasek,34,Gray,Slightly Satisfied,FALSE
+01/23/23 5:33,Terrell Akker,44,Amber,Slightly Satisfied,FALSE
+07/15/22 1:13,Roman Capron,36,Brown,Slightly Satisfied,FALSE
+03/12/22 16:02,Esme Beesley,25,Gray,Extremely Satisfied,FALSE
+12/06/22 1:27,Sondra Jerratsch,42,Green,Satisfied,FALSE
+02/24/22 16:15,Evyn Mayhew,46,Brown,Slightly Satisfied,FALSE
+02/07/23 18:41,Tab Goodoune,31,Hazel,Slightly Satisfied,TRUE
+12/04/22 0:57,Braden Bulch,58,Amber,Very Satisfied,FALSE
+06/21/22 8:33,Gideon Jerzykiewicz,25,Green,Slightly Satisfied,FALSE
+11/08/22 20:45,Courtnay Damiral,57,Hazel,Very Satisfied,FALSE
+07/16/22 13:32,Xavier Mumberson,48,Amber,Very Satisfied,TRUE
+06/15/22 11:11,Nellie Doreward,36,Gray,Not Satisfied,TRUE
+08/12/22 23:53,Augy Stearndale,62,Amber,Extremely Satisfied,FALSE
+01/03/23 16:56,Kelsey Saffran,29,Green,Satisfied,FALSE
+05/19/22 23:58,Orin Copnall,64,Hazel,Very Satisfied,FALSE
+12/01/22 19:24,Christalle Walak,39,Brown,Satisfied,FALSE
+11/05/22 4:13,Yalonda Philbrick,30,Gray,Slightly Satisfied,TRUE
+06/22/22 19:35,Patin Conford,43,Blue,Extremely Satisfied,TRUE
+02/07/23 23:55,Cliff Spivey,34,Brown,Slightly Satisfied,FALSE
+02/28/22 8:50,Ed Crippen,42,Blue,Not Satisfied,FALSE
+04/20/22 19:19,Max MacGoun,58,Hazel,Satisfied,TRUE
+02/23/22 17:51,Philis Doyley,37,Hazel,Extremely Satisfied,FALSE
+10/21/22 4:59,Elliott McGunley,48,Red,Not Satisfied,TRUE
+11/26/22 23:48,Francine Zanitti,42,Gray,Very Satisfied,TRUE
+03/01/22 9:33,Tisha Gautrey,37,Green,Not Satisfied,TRUE
+04/19/22 21:40,Nicol O Mullen,65,Amber,Not Satisfied,FALSE
+02/11/23 14:29,Hana Cardozo,47,Red,Satisfied,FALSE
+10/15/22 0:20,Darsey Kitchinham,44,Red,Slightly Satisfied,TRUE
+12/20/22 21:58,Cori Hawksby,35,Hazel,Slightly Satisfied,FALSE
+01/17/23 18:02,Ranna Gebhard,28,Gray,Not Satisfied,FALSE
+05/19/22 4:02,Jorrie Cohrs,30,Hazel,Not Satisfied,FALSE
+12/18/22 4:54,Nisse Bleddon,60,Brown,Slightly Satisfied,TRUE
+02/08/23 20:28,Thedric Dumbreck,44,Blue,Extremely Satisfied,TRUE
+09/15/22 8:17,Robena Drinkhill,60,Blue,Extremely Satisfied,FALSE
+05/02/22 21:44,Elfreda Scapelhorn,44,Red,Slightly Satisfied,FALSE
+02/03/23 4:38,Astrid Minshaw,62,Green,Slightly Satisfied,FALSE
+11/06/22 20:56,Jenilee Palser,47,Gray,Very Satisfied,FALSE
+07/20/22 15:31,Hank Labat,27,Gray,Not Satisfied,FALSE
+03/06/22 3:38,August Habron,44,Hazel,Slightly Satisfied,FALSE
+04/10/22 14:24,Clement Scarsbrooke,62,Hazel,Satisfied,FALSE
+12/25/22 16:58,Carlotta Keave,60,Green,Satisfied,FALSE
+01/19/23 15:20,Korrie Casari,32,Green,Not Satisfied,FALSE
+04/29/22 19:38,Tanner Westerman,41,Brown,Slightly Satisfied,TRUE
+09/02/22 5:42,Denys Tripney,46,Green,Satisfied,FALSE
+10/19/22 22:52,Fredek Bartusek,27,Red,Not Satisfied,TRUE
+02/22/22 2:20,Julietta Edmund,47,Blue,Satisfied,FALSE
+07/05/22 8:09,Tabitha Riddles,25,Gray,Very Satisfied,TRUE
+01/03/23 11:00,Bernadine Buntine,53,Hazel,Very Satisfied,FALSE
+06/07/22 6:35,Orazio Hannon,64,Gray,Very Satisfied,FALSE
+05/05/22 20:18,Basil Moncarr,44,Brown,Satisfied,TRUE
+04/11/22 13:19,Haley Silvester,46,Green,Very Satisfied,TRUE
+02/12/22 3:15,Kimball Pavkovic,47,Amber,Satisfied,TRUE
+02/06/23 7:20,Dominic Tschirasche,29,Green,Extremely Satisfied,TRUE
+01/19/23 4:42,Suzanna Chitty,65,Amber,Slightly Satisfied,TRUE
+03/25/22 21:52,Rourke Goodisson,61,Red,Slightly Satisfied,TRUE
+06/30/22 16:05,Paulie Whitsun,51,Blue,Extremely Satisfied,TRUE
+12/28/22 1:35,Teddie Dubose,60,Red,Slightly Satisfied,FALSE
+08/15/22 10:02,Hope Boulter,57,Gray,Not Satisfied,TRUE
+09/06/22 14:18,Yoko Dowse,38,Green,Slightly Satisfied,TRUE
+11/22/22 14:34,Roddy Tarbard,52,Blue,Satisfied,TRUE
+09/13/22 4:39,Kelila Lassetter,44,Hazel,Not Satisfied,TRUE
+01/14/23 23:06,Claudine Dimmack,55,Green,Extremely Satisfied,FALSE
+08/23/22 3:21,Lisle Gaucher,64,Gray,Satisfied,FALSE
+08/14/22 1:04,Morgan Fleis,54,Red,Satisfied,TRUE
+08/07/22 7:34,Washington Skeleton,39,Hazel,Satisfied,TRUE
+07/11/22 2:39,Doy Ocklin,29,Hazel,Slightly Satisfied,TRUE
+03/22/22 12:25,Rosalynd Aburrow,27,Green,Not Satisfied,FALSE
+01/03/23 12:58,Elsbeth Gipp,45,Blue,Very Satisfied,TRUE
+06/30/22 21:04,Carissa Abreheart,55,Brown,Very Satisfied,TRUE
+01/29/23 0:17,Patsy Jeakins,46,Brown,Not Satisfied,TRUE
+08/15/22 9:07,Falito Pyle,57,Green,Very Satisfied,FALSE
+10/05/22 11:45,Lori Brannigan,50,Gray,Very Satisfied,FALSE
+08/07/22 5:35,Sylvia Toppin,65,Hazel,Satisfied,FALSE
+03/20/22 16:42,Jacqui Peskin,61,Blue,Extremely Satisfied,FALSE
+09/30/22 8:26,Berry Chamberlen,36,Blue,Satisfied,FALSE
+10/31/22 19:29,Nikoletta Seczyk,33,Green,Extremely Satisfied,TRUE
+03/03/22 19:21,Verine Robillard,54,Red,Extremely Satisfied,TRUE
+03/31/22 20:15,Oona Scanes,43,Red,Not Satisfied,FALSE
+06/14/22 15:00,Maximilian Eckley,60,Blue,Slightly Satisfied,FALSE
+01/13/23 15:32,Foster Bumfrey,60,Blue,Extremely Satisfied,FALSE
+05/24/22 2:52,Roxane Blatchford,28,Blue,Very Satisfied,TRUE
+02/11/23 8:32,Remy Boakes,39,Hazel,Extremely Satisfied,FALSE
+10/17/22 16:29,Brandy Pavese,27,Hazel,Not Satisfied,FALSE
+04/28/22 14:04,Zebulen Astlatt,36,Brown,Very Satisfied,TRUE
+05/26/22 13:02,Kellby Studeart,58,Brown,Slightly Satisfied,TRUE
+03/14/22 22:54,Clayson Swansbury,51,Blue,Not Satisfied,TRUE
+03/02/22 6:57,Moselle Dufore,37,Hazel,Satisfied,TRUE
+02/27/22 12:50,Danielle Vasiljevic,31,Red,Slightly Satisfied,TRUE
+05/22/22 16:54,Sissy Illingsworth,35,Green,Slightly Satisfied,TRUE
+12/03/22 15:57,Rocky Verni,29,Amber,Very Satisfied,TRUE
+11/18/22 8:51,Harlen Quennell,64,Gray,Satisfied,FALSE
+07/08/22 15:06,Tabb Bending,30,Hazel,Satisfied,TRUE
+02/23/22 10:24,Portia McGrah,48,Hazel,Very Satisfied,FALSE
+12/18/22 13:30,Latashia Vigrass,55,Green,Very Satisfied,TRUE
+09/19/22 3:29,Sharia Taudevin,27,Green,Extremely Satisfied,TRUE
+04/23/22 19:40,Barclay Suttle,32,Red,Not Satisfied,TRUE
+05/10/22 22:31,Ilse O'Dogherty,34,Brown,Satisfied,FALSE
+05/16/22 20:03,Quinn Igounet,34,Blue,Satisfied,TRUE
+09/25/22 11:49,Remus Tutchings,53,Red,Extremely Satisfied,TRUE
+01/28/23 5:44,Henriette Covey,46,Green,Not Satisfied,TRUE
+07/09/22 1:28,Lodovico Cejka,35,Gray,Extremely Satisfied,FALSE
+09/21/22 3:59,Amelie Pawle,42,Blue,Satisfied,TRUE
+08/16/22 14:57,Lynna Bellworthy,46,Blue,Very Satisfied,TRUE
+02/24/22 17:13,Phyllis Bedwell,64,Hazel,Slightly Satisfied,TRUE
+04/28/22 20:18,Kennett Chieco,45,Blue,Extremely Satisfied,TRUE
+10/27/22 18:10,Gerhardt Praill,63,Gray,Slightly Satisfied,TRUE
+12/05/22 18:57,Yankee Duck,43,Green,Satisfied,FALSE
+01/13/23 2:10,Carmita Wittier,32,Amber,Very Satisfied,TRUE
+09/17/22 23:19,Roxana Cardno,40,Red,Not Satisfied,FALSE
+08/20/22 9:35,Dermot Humerstone,28,Green,Not Satisfied,TRUE
+06/29/22 3:43,Oren Lockier,30,Green,Slightly Satisfied,FALSE
+02/06/23 0:12,Christina Blakes,25,Hazel,Slightly Satisfied,FALSE
+10/14/22 14:23,Libbie Jorez,30,Red,Satisfied,TRUE
+03/14/22 10:16,Daffy Baterip,50,Gray,Very Satisfied,TRUE
+04/11/22 21:40,Isa Friel,36,Blue,Not Satisfied,FALSE
+11/11/22 18:35,Mattie Densell,32,Amber,Slightly Satisfied,FALSE
+02/14/22 14:55,Bridie Scranney,51,Gray,Slightly Satisfied,TRUE
+08/06/22 4:29,Barry Millwater,54,Gray,Satisfied,TRUE
+12/02/22 15:40,Eloise Abrahmovici,37,Gray,Not Satisfied,FALSE
+05/18/22 9:56,Kevina McMahon,64,Amber,Not Satisfied,FALSE
+06/02/22 1:37,Jobye Vinick,43,Red,Satisfied,FALSE
+09/13/22 5:21,Emeline Chaplyn,51,Hazel,Very Satisfied,TRUE
+12/05/22 14:17,Dennie Pahler,36,Amber,Slightly Satisfied,FALSE
+07/09/22 21:21,Jaclin Miranda,36,Blue,Extremely Satisfied,TRUE
+09/26/22 10:40,Tove Oger,46,Brown,Satisfied,FALSE
+10/06/22 21:38,Bevvy Davson,55,Gray,Satisfied,FALSE
+10/18/22 4:43,Corella Spilsted,63,Amber,Satisfied,TRUE
+08/04/22 14:54,Etheline Matschek,64,Brown,Satisfied,FALSE
+04/25/22 0:57,Camala Lux,57,Red,Satisfied,TRUE
+02/08/23 7:11,Cosme Edgcombe,48,Brown,Extremely Satisfied,FALSE
+04/10/22 4:51,Dael Trewett,41,Hazel,Slightly Satisfied,FALSE
+05/25/22 13:31,Cherin Aslen,42,Hazel,Very Satisfied,FALSE
+08/27/22 23:45,Brannon Southouse,54,Brown,Slightly Satisfied,TRUE
+09/18/22 16:32,Clemmy Thrift,35,Hazel,Extremely Satisfied,FALSE
+11/14/22 10:50,Pearle Revel,56,Green,Satisfied,FALSE
+06/08/22 22:58,Daffie Dodridge,58,Gray,Slightly Satisfied,TRUE
+11/05/22 23:17,Lonna Seleway,60,Red,Slightly Satisfied,FALSE
+11/14/22 21:31,Lydie Tremoille,53,Green,Extremely Satisfied,TRUE
+08/27/22 5:22,Melisenda Spinelli,54,Brown,Satisfied,TRUE
+10/27/22 5:08,Emilee Rootes,64,Hazel,Extremely Satisfied,TRUE
+09/15/22 3:59,Lars Cadogan,33,Hazel,Satisfied,FALSE
+11/29/22 11:24,Jaclyn McVanamy,31,Brown,Satisfied,FALSE
+06/06/22 2:36,Reta Sauvage,57,Gray,Not Satisfied,TRUE
+01/08/23 18:45,Evangelin Lifton,60,Brown,Very Satisfied,TRUE
+03/21/22 2:58,Melisse Dominguez,31,Gray,Not Satisfied,FALSE
+05/20/22 4:51,Conant Mattersey,43,Blue,Very Satisfied,TRUE
+11/22/22 23:34,Ailina Justun,34,Brown,Extremely Satisfied,FALSE
+05/01/22 14:14,Christian Gonzalo,60,Hazel,Not Satisfied,TRUE
+10/29/22 15:28,Jaclyn Mc Ilwrick,57,Amber,Satisfied,TRUE
+01/12/23 3:32,Tracie Dutch,65,Hazel,Slightly Satisfied,TRUE
+03/01/22 23:03,Clari Martinot,37,Green,Extremely Satisfied,FALSE
+05/28/22 13:09,Etti Mathy,63,Hazel,Very Satisfied,FALSE
+12/13/22 9:55,Wilt Soares,56,Brown,Extremely Satisfied,TRUE
+10/11/22 12:30,Kelbee McElvogue,29,Amber,Not Satisfied,FALSE
+05/05/22 20:11,Dalis Barnwill,45,Hazel,Satisfied,TRUE
+02/11/23 16:19,Agustin Di Ruggiero,28,Amber,Satisfied,TRUE
+09/27/22 8:14,Townsend Caldeyroux,60,Green,Satisfied,TRUE
+05/07/22 2:02,Twila Filippazzo,60,Brown,Slightly Satisfied,TRUE
+03/23/22 23:38,Nancy Lody,32,Hazel,Extremely Satisfied,FALSE
+12/19/22 1:42,Madelle Drowsfield,29,Red,Slightly Satisfied,TRUE
+01/02/23 2:43,Hervey Schollar,26,Brown,Satisfied,TRUE
+05/11/22 5:19,Geoffrey Eberts,61,Green,Extremely Satisfied,FALSE
+11/02/22 20:55,Kerstin Cattach,29,Brown,Slightly Satisfied,FALSE
+12/11/22 11:45,Leonore Ellingworth,63,Gray,Satisfied,TRUE
+09/05/22 2:21,Scot Whilder,29,Hazel,Not Satisfied,TRUE
+01/01/23 11:32,Neysa Yacobsohn,29,Green,Not Satisfied,TRUE
+06/18/22 11:47,Elianore Whitney,45,Gray,Slightly Satisfied,FALSE
+10/03/22 1:25,Tierney Gyppes,56,Brown,Satisfied,FALSE
+08/13/22 7:37,Duane Code,28,Hazel,Not Satisfied,FALSE
+12/29/22 13:50,Damiano Kittless,45,Green,Not Satisfied,FALSE
+03/17/22 17:53,Gunter Goulstone,56,Gray,Very Satisfied,TRUE
+04/01/22 9:34,Julianne Checci,36,Gray,Not Satisfied,TRUE
+03/21/22 16:05,Keefer Crich,36,Gray,Extremely Satisfied,FALSE
+12/17/22 8:39,Loutitia Aspel,57,Red,Very Satisfied,FALSE
+03/01/22 1:49,Patrick Chessun,60,Blue,Not Satisfied,TRUE
+12/05/22 7:40,Betteann Benedettini,44,Red,Not Satisfied,FALSE
+06/20/22 4:37,Jyoti Briamo,60,Amber,Very Satisfied,TRUE
+11/13/22 8:44,Karlis Wellman,48,Amber,Very Satisfied,TRUE
+03/11/22 6:57,Colly Warton,48,Brown,Slightly Satisfied,FALSE
+12/30/22 8:40,Art Leeson,25,Hazel,Slightly Satisfied,TRUE
+04/20/22 23:05,Lynde Bullerwell,47,Gray,Not Satisfied,FALSE
+05/12/22 11:26,Janeta Lanfere,28,Blue,Not Satisfied,FALSE
+11/20/22 17:06,Aloysia Forder,41,Hazel,Not Satisfied,FALSE
+12/08/22 10:20,Jeddy Woofinden,35,Gray,Slightly Satisfied,FALSE
+11/01/22 15:54,Shaine Drees,54,Green,Satisfied,FALSE
+02/01/23 0:15,Horten Plampeyn,34,Blue,Not Satisfied,FALSE
+06/24/22 18:01,Issie Hutcheon,30,Amber,Slightly Satisfied,FALSE
+04/12/22 5:10,Eolanda Stranieri,54,Red,Very Satisfied,FALSE
+08/09/22 12:28,Tomi Cousin,47,Brown,Not Satisfied,FALSE
+09/25/22 22:11,Marius Milella,33,Gray,Slightly Satisfied,FALSE
+11/02/22 14:10,Zilvia Klasen,27,Green,Not Satisfied,FALSE
+04/24/22 17:37,Vale Viggers,65,Gray,Slightly Satisfied,FALSE
+06/13/22 17:20,Holden Folk,47,Brown,Slightly Satisfied,FALSE
+11/01/22 21:49,Deeyn Bonnick,27,Red,Very Satisfied,FALSE
+07/25/22 23:19,Phylys Pendock,53,Gray,Slightly Satisfied,FALSE
+07/10/22 10:02,Karl Barnewelle,27,Red,Very Satisfied,TRUE
+12/30/22 19:29,Arlana Brownsill,41,Green,Satisfied,TRUE
+01/16/23 8:18,Nikos Ridwood,52,Gray,Very Satisfied,FALSE
+02/06/23 23:28,Pris Beran,52,Amber,Slightly Satisfied,TRUE
+04/19/22 8:34,Anders Blance,52,Red,Very Satisfied,FALSE
+04/17/22 14:12,Zuzana Caulder,35,Green,Slightly Satisfied,TRUE
+02/26/22 7:02,Kimberly Humber,35,Green,Extremely Satisfied,TRUE
+06/23/22 6:28,Niki Charlton,50,Gray,Slightly Satisfied,TRUE
+02/06/23 16:52,Freda Grasser,44,Red,Extremely Satisfied,FALSE
+09/27/22 8:25,Codi Ashall,40,Blue,Not Satisfied,FALSE
+09/08/22 9:47,Norrie Inkle,41,Green,Very Satisfied,FALSE
+11/09/22 13:26,Sky Trappe,57,Blue,Not Satisfied,TRUE
+06/01/22 7:30,Corina Grane,27,Blue,Very Satisfied,FALSE
+03/03/22 13:10,Elenore Spadazzi,62,Hazel,Not Satisfied,FALSE
+12/13/22 15:03,Torrey Croci,37,Blue,Not Satisfied,TRUE
+04/26/22 13:32,Mellicent Exter,57,Blue,Extremely Satisfied,FALSE
+03/22/22 3:17,Thaddus Topliss,31,Amber,Slightly Satisfied,FALSE
+09/24/22 4:35,Herbert Ferrettini,37,Green,Not Satisfied,TRUE
+07/29/22 18:52,Denis Franek,65,Hazel,Very Satisfied,TRUE
+02/27/22 23:46,Lara Schindler,41,Green,Slightly Satisfied,TRUE
+06/06/22 4:17,Gannon Iacovuzzi,37,Gray,Extremely Satisfied,FALSE
+01/21/23 17:15,Adelbert Van Waadenburg,60,Amber,Extremely Satisfied,FALSE
+05/21/22 5:16,Callida Marrian,45,Blue,Not Satisfied,FALSE
+09/27/22 14:32,Fowler Stonuary,39,Blue,Satisfied,FALSE
+02/14/22 6:30,Leeland Ortner,58,Amber,Very Satisfied,FALSE
+09/22/22 0:34,Free Bedin,59,Green,Not Satisfied,TRUE
+11/17/22 21:44,Moise Cant,42,Amber,Slightly Satisfied,FALSE
+10/09/22 19:23,Manuel Forty,34,Blue,Satisfied,TRUE
+03/25/22 3:21,Aurel Sherratt,50,Amber,Satisfied,FALSE
+09/05/22 17:52,Cully Burkill,27,Red,Very Satisfied,TRUE
+12/26/22 2:48,Wallas Halcro,34,Green,Extremely Satisfied,FALSE
+07/03/22 21:32,Manolo Templeton,36,Green,Extremely Satisfied,TRUE
+01/10/23 17:29,Arline Pipe,63,Hazel,Not Satisfied,FALSE
+08/11/22 19:01,Wilek Moreman,50,Amber,Slightly Satisfied,FALSE
+07/21/22 21:18,Marge Portail,32,Red,Very Satisfied,FALSE
+10/09/22 22:17,Aaron Colloff,35,Hazel,Slightly Satisfied,TRUE
+06/16/22 3:55,Hobie Cleevely,34,Gray,Extremely Satisfied,TRUE
+01/24/23 15:44,Millicent Nathon,27,Hazel,Satisfied,TRUE
+06/18/22 22:37,Krysta Jutson,37,Amber,Satisfied,FALSE
+12/11/22 6:09,Kessia Po,40,Hazel,Extremely Satisfied,FALSE
+05/26/22 20:36,Sonnnie Hegarty,52,Brown,Slightly Satisfied,TRUE
+04/09/22 14:31,Ninnetta Sheber,31,Gray,Extremely Satisfied,TRUE
+11/04/22 23:37,Kelwin Impy,43,Hazel,Very Satisfied,TRUE
+04/23/22 21:36,Sophi Wellfare,46,Brown,Extremely Satisfied,FALSE
+06/04/22 8:10,Dorie Kleynen,43,Blue,Very Satisfied,FALSE
+07/13/22 15:21,Albertine Skingley,35,Gray,Extremely Satisfied,TRUE
+12/16/22 17:07,Lizabeth Hammett,32,Gray,Slightly Satisfied,TRUE
+11/13/22 13:30,Jacenta Sinott,46,Green,Very Satisfied,TRUE
+11/07/22 13:18,Auberta Abbati,39,Red,Slightly Satisfied,TRUE
+05/19/22 15:30,Manfred Maso,47,Green,Extremely Satisfied,TRUE
+11/20/22 14:56,Myra Ranvoise,48,Amber,Slightly Satisfied,FALSE
+04/24/22 19:56,Thacher Topes,25,Hazel,Slightly Satisfied,TRUE
+10/05/22 17:56,Henrik Stratten,31,Amber,Slightly Satisfied,FALSE
+05/16/22 17:13,Roth Donizeau,28,Amber,Extremely Satisfied,TRUE
+10/31/22 17:12,Billy Bockmaster,36,Gray,Very Satisfied,FALSE
+10/26/22 18:51,Lily Castelluzzi,26,Green,Not Satisfied,TRUE
+05/14/22 16:51,Dietrich Woodcroft,59,Blue,Satisfied,TRUE
+03/08/22 14:12,Jo D'Errico,33,Green,Not Satisfied,FALSE
+09/21/22 17:53,Demetria Cupitt,60,Brown,Satisfied,FALSE
+09/09/22 23:45,Barbi Foskin,55,Gray,Very Satisfied,FALSE
+03/30/22 12:09,Alvy Clyburn,38,Hazel,Satisfied,FALSE
+06/09/22 14:22,Stirling Stormouth,52,Brown,Not Satisfied,FALSE
+06/27/22 12:02,Clifford Lepoidevin,60,Amber,Not Satisfied,FALSE
+06/09/22 2:41,Merridie Gait,55,Blue,Not Satisfied,FALSE
+11/30/22 1:37,Tersina Matfin,32,Hazel,Extremely Satisfied,FALSE
+09/19/22 2:22,Inglis Keynes,57,Green,Slightly Satisfied,FALSE
+08/30/22 4:35,Karim Orrum,54,Amber,Not Satisfied,FALSE
+05/12/22 21:51,Alex Rousby,46,Hazel,Satisfied,TRUE
+09/21/22 0:36,Andriette Ucchino,57,Brown,Slightly Satisfied,TRUE
+04/02/22 19:02,Heindrick Lorimer,63,Hazel,Very Satisfied,FALSE
+09/23/22 20:46,Ashby Davenell,36,Amber,Satisfied,FALSE
+08/01/22 9:44,Jacqueline Angove,50,Red,Very Satisfied,FALSE
+09/18/22 23:56,Thorsten Cecchetelli,59,Red,Very Satisfied,FALSE
+05/08/22 0:30,Johannes Streater,62,Green,Extremely Satisfied,FALSE
+05/17/22 20:06,Hiram Veldens,38,Gray,Extremely Satisfied,FALSE
+10/27/22 7:54,Rhoda McCurley,52,Green,Not Satisfied,FALSE
+06/03/22 19:10,Zeb Swate,40,Brown,Not Satisfied,FALSE
+06/28/22 3:15,Terencio Olohan,56,Red,Satisfied,FALSE
+03/12/22 20:19,Batholomew Keel,35,Brown,Not Satisfied,TRUE
+03/22/22 12:09,Shandeigh Ryburn,55,Brown,Extremely Satisfied,FALSE
+06/27/22 14:45,Jaymee Royan,35,Green,Extremely Satisfied,TRUE
+04/13/22 23:08,Marijo Dootson,39,Red,Not Satisfied,TRUE
+12/21/22 1:24,Emmi Anshell,40,Hazel,Slightly Satisfied,FALSE
+07/13/22 6:31,Sisely Gouck,60,Amber,Slightly Satisfied,TRUE
+07/15/22 23:04,Phillipe Caraher,48,Hazel,Extremely Satisfied,FALSE
+04/06/22 13:25,Kele Shurmore,45,Brown,Slightly Satisfied,TRUE
+09/20/22 14:51,Aube Noye,51,Green,Extremely Satisfied,FALSE
+08/22/22 23:40,Grady Obal,34,Gray,Extremely Satisfied,TRUE
+04/10/22 5:14,Gilligan Mease,49,Green,Slightly Satisfied,TRUE
+02/25/22 17:45,Byram Strasse,44,Brown,Very Satisfied,TRUE
+07/11/22 6:58,Ethe Costa,44,Amber,Not Satisfied,FALSE
+12/19/22 20:50,Lauretta Forson,44,Amber,Not Satisfied,FALSE
+05/12/22 4:43,Petrina Jennemann,62,Red,Satisfied,FALSE
+10/03/22 7:50,Elfie Muschette,30,Green,Extremely Satisfied,FALSE
+12/19/22 8:36,Roanne Illingsworth,59,Blue,Not Satisfied,FALSE
+01/07/23 0:11,Kipper Tant,39,Hazel,Very Satisfied,TRUE
+04/08/22 21:35,Agustin Strelitzki,36,Red,Extremely Satisfied,TRUE
+01/02/23 12:56,Ediva Croston,58,Hazel,Very Satisfied,FALSE
+12/15/22 7:12,Joela Abbess,29,Gray,Satisfied,TRUE
+08/12/22 22:59,Kristel Marks,53,Hazel,Extremely Satisfied,FALSE
+04/18/22 14:19,Jacquette Merrill,50,Hazel,Not Satisfied,TRUE
+01/15/23 14:26,Johnathon Le Clercq,58,Green,Not Satisfied,FALSE
+10/07/22 10:51,Karoline Sandells,55,Blue,Very Satisfied,TRUE
+05/27/22 16:01,Muire Attewell,50,Green,Extremely Satisfied,FALSE
+04/29/22 19:28,Viviene Ottee,25,Amber,Very Satisfied,FALSE
+12/29/22 13:48,Ring Bareford,42,Blue,Very Satisfied,FALSE
+04/11/22 15:18,Durante Bentall,51,Green,Satisfied,TRUE
+04/11/22 2:52,Demetre Hawsby,26,Amber,Slightly Satisfied,TRUE
+10/24/22 20:36,Heall Brevetor,36,Green,Slightly Satisfied,FALSE
+04/24/22 4:06,Deeann McAdam,58,Amber,Very Satisfied,FALSE
+12/05/22 3:07,Ailyn Booij,34,Brown,Extremely Satisfied,TRUE
+05/05/22 22:27,Cyndie Arkle,30,Gray,Extremely Satisfied,TRUE
+07/27/22 4:20,Hilary M'Quharge,25,Gray,Satisfied,FALSE
+09/27/22 15:04,Angelica Aizikovich,54,Blue,Very Satisfied,FALSE
+04/01/22 4:05,Pam MacGinney,34,Amber,Slightly Satisfied,TRUE
+02/17/22 17:00,Walt Bott,42,Red,Satisfied,TRUE
+03/18/22 23:33,Elmo Swadling,42,Amber,Satisfied,TRUE
+10/20/22 11:22,Mathew Peddersen,32,Amber,Not Satisfied,TRUE
+06/17/22 20:56,Terri Pinock,40,Hazel,Not Satisfied,TRUE
+08/11/22 13:36,Skipp Sibbering,42,Red,Slightly Satisfied,FALSE
+07/15/22 18:09,Murdoch O'Dunneen,45,Brown,Slightly Satisfied,TRUE
+07/30/22 10:32,Ivor Bortolazzi,27,Red,Satisfied,FALSE
+08/17/22 12:55,Emelda Malam,61,Green,Not Satisfied,TRUE
+02/18/22 15:48,Rosita Ealles,65,Amber,Satisfied,TRUE
+02/21/22 10:02,Claudelle Reinisch,43,Red,Extremely Satisfied,FALSE
+07/19/22 3:26,Cooper Goaley,62,Green,Extremely Satisfied,FALSE
+07/15/22 1:47,Anni Wynne,54,Brown,Slightly Satisfied,FALSE
+07/08/22 19:05,Dorene D'Ruel,55,Blue,Very Satisfied,FALSE
+01/19/23 13:04,Vaughan Pretsell,33,Hazel,Satisfied,FALSE
+06/07/22 5:29,Mabel Penhaleurack,58,Amber,Extremely Satisfied,FALSE
+09/29/22 0:38,Allis Males,30,Brown,Very Satisfied,FALSE
+07/22/22 14:33,Fanni Brendel,42,Hazel,Satisfied,TRUE
+09/15/22 22:47,Hugues Boulden,33,Amber,Very Satisfied,FALSE
+03/05/22 16:27,Robert Rantoul,36,Brown,Not Satisfied,FALSE
+03/22/22 18:19,Irita Bristow,61,Brown,Extremely Satisfied,TRUE
+11/08/22 11:04,Elisa Langfield,48,Hazel,Very Satisfied,FALSE
+01/22/23 23:42,Noelle Chasemoore,31,Amber,Not Satisfied,FALSE
+11/28/22 10:09,Guenna de Chastelain,62,Brown,Extremely Satisfied,FALSE
+02/05/23 16:50,Launce Abadam,54,Brown,Slightly Satisfied,FALSE
+09/25/22 13:01,Major Ochterlony,46,Amber,Very Satisfied,FALSE
+10/22/22 6:14,Zsa zsa Litzmann,59,Green,Satisfied,FALSE
+11/17/22 1:41,Gilemette Tarbert,38,Green,Not Satisfied,TRUE
+07/28/22 19:25,Domeniga Doogue,34,Green,Extremely Satisfied,FALSE
+11/06/22 2:50,Dorian Budibent,40,Amber,Satisfied,TRUE
+06/09/22 16:21,Roberto Giacoppo,48,Red,Very Satisfied,FALSE
+09/16/22 5:22,Merry Brotheridge,25,Brown,Not Satisfied,TRUE
+11/02/22 8:48,Mavis Shepcutt,46,Green,Not Satisfied,FALSE
+02/11/23 10:33,Bearnard Minton,54,Red,Not Satisfied,FALSE
+02/09/23 16:21,Georgeanna Kurdani,32,Blue,Satisfied,FALSE
+10/07/22 13:05,Munmro Emanuelli,47,Red,Slightly Satisfied,FALSE
+03/06/22 16:16,Mannie Hestrop,47,Red,Slightly Satisfied,TRUE
+02/14/22 20:35,Tilda Molloy,37,Green,Extremely Satisfied,FALSE
+08/21/22 9:31,Kile Hovie,39,Hazel,Slightly Satisfied,FALSE
+03/12/22 23:11,Karlotte Littleproud,44,Amber,Slightly Satisfied,FALSE
+02/27/22 22:39,Kimball Madders,58,Blue,Slightly Satisfied,FALSE
+01/26/23 3:34,Ruben Donlon,30,Gray,Extremely Satisfied,TRUE
+03/14/22 19:39,Gisela Manzell,38,Red,Satisfied,TRUE
+06/30/22 19:38,Kain Foulger,64,Brown,Not Satisfied,TRUE
+10/08/22 11:27,Antons Lavers,31,Brown,Slightly Satisfied,FALSE
+06/13/22 6:11,Alice Rainforth,47,Green,Extremely Satisfied,TRUE
+07/24/22 22:24,Vivianne Chaise,43,Hazel,Extremely Satisfied,TRUE
+11/26/22 19:26,Piper Bedberry,45,Gray,Satisfied,FALSE
+04/23/22 16:05,Dermot Pfiffer,59,Brown,Satisfied,TRUE
+06/22/22 20:41,Juliane Tunnacliffe,57,Gray,Slightly Satisfied,FALSE
+02/27/22 4:27,Kikelia Hobell,51,Green,Extremely Satisfied,FALSE
+12/12/22 17:04,Shir O'Sherin,46,Hazel,Not Satisfied,TRUE
+04/06/22 19:04,Antonino Thacke,28,Gray,Very Satisfied,FALSE
+10/27/22 4:51,Timothea Bellany,49,Amber,Not Satisfied,FALSE
+03/01/22 22:35,Sydel Scole,54,Brown,Extremely Satisfied,TRUE
+12/02/22 0:00,Goddard MacTeague,40,Brown,Extremely Satisfied,TRUE
+01/09/23 13:50,Kathe Callendar,53,Green,Satisfied,TRUE
+05/15/22 6:52,Carin Lowdes,54,Gray,Satisfied,FALSE
+01/03/23 6:03,Luise Pitone,40,Gray,Very Satisfied,TRUE
+05/04/22 14:17,Philip Sparke,65,Blue,Not Satisfied,FALSE
+11/25/22 8:47,Carroll Danilevich,56,Red,Slightly Satisfied,FALSE
+01/18/23 11:49,Maureene Creese,40,Green,Extremely Satisfied,FALSE
+04/14/22 14:33,Anatola Showell,40,Hazel,Slightly Satisfied,FALSE
+01/15/23 18:23,Susy Slessor,36,Brown,Very Satisfied,FALSE
+02/25/22 8:01,Trudie Menat,60,Amber,Very Satisfied,TRUE
+05/11/22 16:12,Justina Holdin,30,Brown,Slightly Satisfied,FALSE
+02/13/22 11:05,Brianne Moresby,29,Green,Slightly Satisfied,FALSE
+11/24/22 14:13,Heda Labitt,50,Green,Not Satisfied,FALSE
+04/03/22 18:32,Dalton De Malchar,26,Hazel,Slightly Satisfied,TRUE
+05/12/22 22:16,Jobyna Schellig,49,Hazel,Very Satisfied,TRUE
+12/05/22 9:42,Thalia Quinnelly,32,Gray,Slightly Satisfied,TRUE
+06/25/22 3:37,Ealasaid Cortnay,38,Red,Extremely Satisfied,TRUE
+05/03/22 11:24,El Gollin,43,Gray,Slightly Satisfied,TRUE
+10/07/22 11:46,Rowan Willavoys,26,Amber,Satisfied,FALSE
+08/06/22 17:14,Delmar Gunn,65,Amber,Extremely Satisfied,TRUE
+02/24/22 15:42,Leanor Swiffin,59,Hazel,Slightly Satisfied,TRUE
+09/28/22 9:04,Amble Purselow,26,Red,Slightly Satisfied,TRUE
+09/18/22 9:39,Ned Dunlap,27,Brown,Satisfied,FALSE
+11/21/22 5:00,Lemmy Willans,42,Hazel,Not Satisfied,FALSE
+01/12/23 10:40,Holly Deetch,44,Gray,Very Satisfied,FALSE
+01/05/23 17:34,Melisandra Tattersfield,54,Red,Not Satisfied,FALSE
+11/13/22 3:26,Sherrie Creamer,38,Green,Satisfied,TRUE
+05/15/22 17:35,Caryn Crickmoor,35,Red,Slightly Satisfied,FALSE
+09/24/22 17:11,Holmes Jozaitis,44,Amber,Extremely Satisfied,FALSE
+08/23/22 1:46,Blane Simonutti,39,Red,Very Satisfied,FALSE
+08/27/22 21:06,Corny Briars,38,Red,Slightly Satisfied,TRUE
+08/28/22 20:30,Flinn Rudd,27,Red,Extremely Satisfied,FALSE
+10/30/22 23:35,Cornelia Laurentino,43,Red,Not Satisfied,FALSE
+11/26/22 14:17,Rutherford Svanetti,39,Hazel,Not Satisfied,FALSE
+10/27/22 14:41,Derrik Doore,54,Red,Slightly Satisfied,FALSE
+03/06/22 6:10,Mildred Ellesmere,56,Red,Slightly Satisfied,TRUE
+07/05/22 2:40,Hewett Leverington,57,Blue,Satisfied,TRUE
+07/20/22 15:23,Hernando Dahmke,30,Green,Slightly Satisfied,TRUE
+08/01/22 3:10,Noam Methuen,26,Gray,Extremely Satisfied,TRUE
+07/18/22 20:10,Anni Dagon,39,Gray,Satisfied,TRUE
+04/03/22 16:00,Joly Ineson,49,Red,Very Satisfied,TRUE
+08/06/22 19:52,Willey Weond,50,Brown,Extremely Satisfied,TRUE
+08/02/22 7:27,Aharon Moxon,26,Red,Very Satisfied,FALSE
+11/20/22 4:25,Vin Iowarch,64,Blue,Satisfied,TRUE
+03/15/22 15:35,Tarah Kadd,35,Hazel,Extremely Satisfied,TRUE
+07/01/22 19:09,Donnie Winckles,64,Red,Very Satisfied,FALSE
+04/22/22 16:53,Leese Stoak,47,Gray,Slightly Satisfied,FALSE
+09/14/22 21:21,Cosetta Folley,44,Gray,Not Satisfied,TRUE
+11/08/22 12:54,Frances Perrie,32,Gray,Extremely Satisfied,TRUE
+12/02/22 15:49,Nikolos Morgan,42,Red,Slightly Satisfied,TRUE
+01/18/23 15:37,Jermayne Brothers,28,Green,Extremely Satisfied,FALSE
+07/08/22 17:28,Petr Brambill,31,Red,Extremely Satisfied,TRUE
+03/26/22 16:56,Malissa Boulstridge,39,Amber,Extremely Satisfied,TRUE
+04/19/22 19:19,Karry Creamen,47,Red,Slightly Satisfied,TRUE
+04/15/22 21:23,Therese Temlett,40,Gray,Very Satisfied,TRUE
+11/10/22 0:23,Donni Goodwill,59,Blue,Not Satisfied,TRUE
+08/18/22 0:39,Vinni Branche,55,Hazel,Slightly Satisfied,FALSE
+04/11/22 22:39,Rita Suller,38,Red,Extremely Satisfied,FALSE
+01/16/23 14:39,Virge Heighway,39,Gray,Extremely Satisfied,TRUE
